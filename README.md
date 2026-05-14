@@ -258,6 +258,3 @@ This project was developed as practical training in:
 Developed by **Ευστράτιος Βασιλέλλης**
 
 GitHub: [https://github.com/stratvas](https://github.com/stratvas)
-
-```
-```
